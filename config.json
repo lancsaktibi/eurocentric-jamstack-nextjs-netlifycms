@@ -1,7 +1,7 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://eurocentric.netlify.app",
+  "site_title": "Eurocentric",
+  "site_description": "A preview of selected Javascript Technologies.",
   "site_keywords": [
     {
       "keyword": "Next.js"
@@ -14,6 +14,6 @@
     }
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@lancsaktibi",
+  "github_account": "lancsaktibi"
 }
